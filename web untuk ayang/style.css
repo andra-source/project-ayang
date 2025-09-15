@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f9e0e0;
+    border: 50px solid;
+    border-image: url('image/3678319_e4190.jpg') 30 round;
+    overflow: hidden;
+}
+
+.container {
+    text-align: center;
+}
+
+.judul {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.gambar {
+   width: 300px;
+   margin-bottom: 20px;
+}
+
+.nama {
+    font-size: 1.5em;
+    font-weight: bold;
+}
