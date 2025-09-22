@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #f9e0e0;
-    border: 50px solid;
+    border: 50px solid transparan;
     border-image: url('3678319_e4190.jpg') 30 round;
     overflow: hidden;
 }
